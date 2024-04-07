@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\_danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\_danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanpham\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanpham\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanpham\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanpham\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanpham\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanpham\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\data\\webcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\data\\webcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\viewmodels\\sanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\viewmodels\\sanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|c:\\users\\tripham\\desktop\\new folder\\webcf\\webcf\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2872BE-9781-4B9C-887A-524122D54305}|WebCF\\WebCF.csproj|solutionrelative:webcf\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:24.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T16:55:59.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Productitem.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Productitem.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPham\\Productitem.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Productitem.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPham\\Productitem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:37:57.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:47.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:37:50.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_DanhSachSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_DanhSachSP.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\_DanhSachSP.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_DanhSachSP.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\_DanhSachSP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:07:11.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T13:41:38.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "WebCF\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "WebCF\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswGQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:35:49.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "WebCF\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "WebCF\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:50:34.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T16:03:43.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "WebCF\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "WebCF\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:34:22.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Program.cs",
+              "RelativeDocumentMoniker": "WebCF\\Program.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Program.cs",
+              "RelativeToolTip": "WebCF\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:38:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPham\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Detail.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPham\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:37:56.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Search.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPham\\Search.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPham\\Search.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPham\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:17:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:01.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPhams\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPhams\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:03.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:37:40.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:37:46.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:09.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:41.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebContext.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Data\\WebContext.cs",
+              "RelativeDocumentMoniker": "WebCF\\Data\\WebContext.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Data\\WebContext.cs",
+              "RelativeToolTip": "WebCF\\Data\\WebContext.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:24:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:22.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:43.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_TimKiemPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:38.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Copyright.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_Copyright.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\_Copyright.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\_Copyright.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\_Copyright.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:14.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebCF\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebCF\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:35:44.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T13:46:02.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:37:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SanPhamVM.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\SanPhamVM.cs",
+              "RelativeDocumentMoniker": "WebCF\\ViewModels\\SanPhamVM.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\SanPhamVM.cs",
+              "RelativeToolTip": "WebCF\\ViewModels\\SanPhamVM.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:37:27.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "WebCF\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "WebCF\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAD4v0oAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:35:59.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:46.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPhams\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPhams\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:05.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebCF\\Views\\SanPhams\\Details.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Views\\SanPhams\\Details.cshtml",
+              "RelativeToolTip": "WebCF\\Views\\SanPhams\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:38:04.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\appsettings.json",
+              "RelativeDocumentMoniker": "WebCF\\appsettings.json",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\appsettings.json",
+              "RelativeToolTip": "WebCF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T14:38:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "WebCF\\ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "WebCF\\ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:37:21.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebCF\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebCF\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:34:55.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "WebCF\\ViewModels\\CartItem.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "WebCF\\ViewModels\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:29:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "WebCF\\ViewModels\\CartModel.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "WebCF\\ViewModels\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:29:38.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "WebCF\\Helpers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "WebCF\\Helpers\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:30:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\MyUtil.cs",
+              "RelativeDocumentMoniker": "WebCF\\Helpers\\MyUtil.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\MyUtil.cs",
+              "RelativeToolTip": "WebCF\\Helpers\\MyUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:29:58.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "WebCF\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "WebCF\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:29:44.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "WebCF\\Helpers\\MySetting.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "WebCF\\Helpers\\MySetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:29:54.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DataEncryptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeDocumentMoniker": "WebCF\\Helpers\\DataEncryptionExtensions.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeToolTip": "WebCF\\Helpers\\DataEncryptionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:29:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "WebCF\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\New folder\\WebCF\\WebCF\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "WebCF\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:26:45.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

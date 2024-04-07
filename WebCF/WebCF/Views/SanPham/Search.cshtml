@@ -1,0 +1,10 @@
+﻿@model IEnumerable<WebCF.ViewModels.SanPhamVM>
+@{
+    ViewData["Title"] = "Search";
+    Layout = "_DanhSachSP";
+}
+
+<h1>Search</h1>
+
+@await Html.PartialAsync("ProductItem", Model)
+
